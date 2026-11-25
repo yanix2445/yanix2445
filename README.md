@@ -1,39 +1,52 @@
-# Yanis Harrat
+<p align="center">
+  <a href="https://yanis-harrat.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Display&weight=900&size=48&duration=2200&pause=900&color=FF5B2E&center=true&vCenter=true&width=900&height=90&lines=Salut%2C+moi+c%27est+Yanis;Je+monte+des+serveurs;Je+code+des+apps+et+des+sites;Je+casse%2C+je+r%C3%A9pare%2C+je+recommence" alt="Salut, moi c'est Yanis. Je monte des serveurs. Je code des apps et des sites. Je casse, je répare, je recommence.">
+  </a>
+</p>
 
-Salut, moi c'est Yanis. J'aime les systèmes et les réseaux, et j'aime tout autant développer : des apps, des sites web, des logiciels. Souvent les deux se rejoignent : je monte une infra, puis je code ce qui manque autour.
+<p align="center">
+  Systèmes, réseaux et dev, avec trop d'énergie pour choisir un camp.<br>
+  Un homelab Proxmox à la maison, des apps et des sites à côté.
+</p>
 
-Chez moi, un vieux PC recyclé tourne sous Proxmox. Il y a un pare-feu OPNsense, des VLAN, un domaine Active Directory et quelques services Docker derrière Traefik, joignables en WireGuard. C'est là que je teste, que je casse et que je répare.
+<p align="center">
+  <a href="https://yanis-harrat.com"><img src="https://img.shields.io/badge/Portfolio-yanis--harrat.com-ff5b2e?style=for-the-badge" alt="Portfolio : yanis-harrat.com"></a>
+  <a href="https://www.linkedin.com/in/yanis-harrat/"><img src="https://img.shields.io/badge/LinkedIn-yanis--harrat-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://cal.com/yanis-harrat/rdv-15min"><img src="https://img.shields.io/badge/Un_appel-15_min-f2ebdd?style=for-the-badge&labelColor=0b0a09" alt="Réserver un appel de 15 minutes"></a>
+</p>
 
-Pour le code, je travaille avec Claude Code : j'écris la spec, je découpe le travail, puis je relis et je teste ce qu'il produit. C'est comme ça que j'ai fait AppKite et mon portfolio.
+<br>
 
-## Ce sur quoi je bosse
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,docker,cloudflare,vercel&perline=7" alt="Linux, Debian, Ubuntu, Windows, Docker, Cloudflare, Vercel"><br>
+  <img src="https://skillicons.dev/icons?i=python,git,nextjs,react,ts,tailwind,swift&perline=7" alt="Python, Git, Next.js, React, TypeScript, Tailwind CSS, Swift">
+</p>
+<p align="center"><sub>Et aussi Proxmox, OPNsense, Active Directory, Entra ID, Intune, Microsoft 365 et n8n.</sub></p>
 
-- **[Mon homelab](https://yanis-harrat.com/projets/homelab-proxmox-docker)** : Proxmox, OPNsense, des VLAN séparés et un hôte Docker sous Debian 13.
-- **[Un lab Active Directory](https://yanis-harrat.com/projets/lab-active-directory-windows-server)** sous Windows Server 2025 : DNS, DHCP, groupes AGDLP, GPO et partages DFS répliqués entre deux serveurs. La réplication m'a donné du fil à retordre.
-- **[AppKite](https://github.com/yanix2445/AppKite)** : une petite app macOS qui vit dans la barre de menus. Le premier outil, un historique du presse-papiers, marche. Trois autres sont prévus.
-- **[Mon portfolio](https://github.com/yanix2445/portfolio)** en Next.js, avec ses tests de bout en bout et un formulaire de contact qui ne stocke rien.
-- **[dina](https://github.com/yanix2445/dina)** : le site portfolio que j'ai fait pour Dina, étudiante en BUT GEA.
+<br>
 
-## Avant ça
+<h2 align="center">🎬 À l'affiche</h2>
 
-- **Helpdesk N1/N2 au Secours Catholique** (été 2026) : des tickets à traiter dans les temps, Microsoft 365, Entra ID, Intune, Autopilot et Active Directory, en vrai, avec de vrais utilisateurs.
-- **IUT de Meaux** (2025) : j'ai refait un système d'information avec des bases SQL, des scripts Python et JavaScript et des workflows n8n, puis j'ai formé les gens qui allaient s'en servir.
-- **Chef de rang** pendant 16 mois. Gérer dix demandes à la fois sans perdre son calme, ça sert aussi en support.
+<p align="center">
+  <a href="https://yanis-harrat.com/projets/homelab-proxmox-docker"><img src="https://yanis-harrat.com/projets/homelab-proxmox-docker/opengraph-image" width="32%" alt="Homelab Proxmox et Docker : OPNsense, VLAN, Windows Server et Docker derrière Traefik et WireGuard"></a>
+  <a href="https://yanis-harrat.com/projets/lab-active-directory-windows-server"><img src="https://yanis-harrat.com/projets/lab-active-directory-windows-server/opengraph-image" width="32%" alt="Lab Active Directory sous Windows Server 2025 : AGDLP, GPO et DFS-R"></a>
+  <a href="https://yanis-harrat.com/projets/appkite-app-macos"><img src="https://yanis-harrat.com/projets/appkite-app-macos/opengraph-image" width="32%" alt="AppKite, une app macOS de barre de menus en SwiftUI"></a>
+</p>
 
-## Ce que j'utilise
+<br>
 
-- **Systèmes** : Windows Server, Debian, Ubuntu Server, macOS
-- **Microsoft** : Active Directory, GPO, Entra ID, Intune, Defender, Autopilot, Microsoft 365
-- **Réseau** : TCP/IP, VLAN, routage, NAT, VPN, DNS, DHCP
-- **Sécurité et virtualisation** : OPNsense, pfSense, Proxmox, VMware, Docker
-- **Dev** : Next.js, React, TypeScript, Tailwind CSS, SwiftUI, Python, SQL, n8n, Git
+<h2 align="center">🐍 Mon année sur GitHub</h2>
 
-## Ma veille
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanix2445/yanix2445/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/yanix2445/yanix2445/output/snake.svg" alt="Un serpent orange qui mange mes contributions de l'année">
+  </picture>
+</p>
 
-Je regarde jusqu'où l'IA peut aider un admin sans qu'on perde la main sur la sécurité. J'en écris [une fiche par semaine](https://yanis-harrat.com/veille), avec ce que j'ai vraiment testé dans mon lab.
+<br>
 
-## Me joindre
-
-[yanis-harrat.com](https://yanis-harrat.com) · [LinkedIn](https://www.linkedin.com/in/yanis-harrat/) · [Un appel de 15 min](https://cal.com/yanis-harrat/rdv-15min)
-
-Je cherche une alternance de technicien systèmes et réseaux en Île-de-France à partir de septembre 2027 (BTS SIO SISR). Si votre équipe a de la place, [écrivez-moi](https://yanis-harrat.com/contact?motif=alternance).
+<p align="center">
+  <b>🍿 Prochainement : une alternance de technicien systèmes et réseaux en Île-de-France, dès septembre 2027.</b><br>
+  Le casting est ouvert : <a href="https://yanis-harrat.com/contact?motif=alternance">écrivez-moi</a>.
+</p>
